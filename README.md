@@ -131,4 +131,4 @@ Utilisez ces commandes Docker dans Cloud Shell pour gérer vos bureaux virtuels 
 
 ## Licence
 
-Ce guide est fourni sous la licence MIT (ou choisissez une autre licence si vous préférez).
+Ce guide est fourni sous Apache-2.0 license.
