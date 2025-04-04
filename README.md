@@ -1,2 +1,2 @@
 # free-RDP-google
-free RDP from google 30 h / week
+free RDP from google 50 h / week
