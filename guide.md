@@ -1,5 +1,7 @@
 # **Guide Détaillé : Lancer un Bureau Linux Graphique dans Google Cloud Shell via Docker**
 
+![Illustration d'un bureau Linux dans un navigateur](images/image.png)
+
 Ce guide vous montre comment exécuter un environnement de bureau Linux (Ubuntu avec LXDE ou XFCE) directement depuis le terminal Google Cloud Shell en utilisant des images Docker. Cela vous permet d'accéder à une interface graphique et des applications comme un navigateur web, sans installer de machine virtuelle complète.
 
 ---
@@ -113,3 +115,5 @@ Cet environnement utilise une base Ubuntu plus récente, l'environnement XFCE (�
     *   Puis : `docker rm lxde-desktop` ou `docker rm webtop-ubuntu-xfce`
 *   **Pour voir les conteneurs en cours d'exécution :** `docker ps`
 *   **Pour voir tous les conteneurs (même arrêtés) :** `docker ps -a`
+
+---
